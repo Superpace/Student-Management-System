@@ -1,0 +1,2 @@
+1	C#	5	Bu kursta Görsel Programlama ve Nesne Tabanlı Programlamadan bahsedilmiştir.
+2	Java	7	Java ile ilgili herşey bu kursta verilmektedir.
