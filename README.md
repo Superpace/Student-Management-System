@@ -1,6 +1,4 @@
 # Student Management System
- 
-    I created this project for our "Visual Programing with C#" lesson
     
 ![giris](https://user-images.githubusercontent.com/36486345/69816082-b7264b80-1208-11ea-91d6-12cefa22cefb.png)
 ![txtogrenci](https://user-images.githubusercontent.com/36486345/69816120-cc9b7580-1208-11ea-95a3-26f773bed070.png)
